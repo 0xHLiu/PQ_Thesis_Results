@@ -1,0 +1,6 @@
+﻿,secp256k1,standard_FALCON512,standard_FALCON1024,pk-recovery_FALCON512,pk-recovery_FALCON1024
+Secret Key,32,1281,2306,1281,2306
+Public Key,64,897,1793,32,64
+Signature,65,666,1280,1291,2519
+Address,20,20,20,32,64
+On-Chain,85,1563,3073,1323,2583
